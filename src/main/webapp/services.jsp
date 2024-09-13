@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>hii there!</h1>
-<a href="services.jsp">after deploying from jenkins </a>
+<h5>this file is adding later bcz first we deploy about and index then after i am create this file and push in github and build jenkins job again to se changes </h5>
 </body>
 </html>
